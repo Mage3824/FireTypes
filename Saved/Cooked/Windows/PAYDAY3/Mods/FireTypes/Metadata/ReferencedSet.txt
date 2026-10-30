@@ -1,4 +1,5 @@
 /FireTypes/BP_FireTypes
+/FireTypes/BP_FireTypesSave
 /FireTypes/DA_FireTypes
 /FireTypes/E_FireCycleType
 /FireTypes/E_WeaponFireCategory

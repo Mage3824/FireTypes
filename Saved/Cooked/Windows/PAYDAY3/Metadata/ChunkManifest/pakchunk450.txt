@@ -1,4 +1,5 @@
 ..\..\PD3-Modkit-main\Mods\FireTypes\Saved\Cooked\Windows\PAYDAY3\Mods\FireTypes\Content\BP_FireTypes
+..\..\PD3-Modkit-main\Mods\FireTypes\Saved\Cooked\Windows\PAYDAY3\Mods\FireTypes\Content\BP_FireTypesSave
 ..\..\PD3-Modkit-main\Mods\FireTypes\Saved\Cooked\Windows\PAYDAY3\Mods\FireTypes\Content\DA_FireTypes
 ..\..\PD3-Modkit-main\Mods\FireTypes\Saved\Cooked\Windows\PAYDAY3\Mods\FireTypes\Content\E_FireCycleType
 ..\..\PD3-Modkit-main\Mods\FireTypes\Saved\Cooked\Windows\PAYDAY3\Mods\FireTypes\Content\E_WeaponFireCategory

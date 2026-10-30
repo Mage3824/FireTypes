@@ -1,7 +1,9 @@
 ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
-450,/FireTypes/BP_FireTypes,/Script/Engine.Blueprint,Hard,35459,None
-450,/FireTypes/BP_FireTypes,/Script/Engine.BlueprintGeneratedClass,Hard,35459,None
-450,/FireTypes/DA_FireTypes,/PDML/Blueprints/PDA_ModMeta.PDA_ModMeta_C,Hard,1772,None
+450,/FireTypes/BP_FireTypes,/Script/Engine.Blueprint,Hard,53490,None
+450,/FireTypes/BP_FireTypes,/Script/Engine.BlueprintGeneratedClass,Hard,53490,None
+450,/FireTypes/BP_FireTypesSave,/Script/Engine.Blueprint,Hard,1661,None
+450,/FireTypes/BP_FireTypesSave,/Script/Engine.BlueprintGeneratedClass,Hard,1661,None
+450,/FireTypes/DA_FireTypes,/PDML/Blueprints/PDA_ModMeta.PDA_ModMeta_C,Hard,4824,None
 450,/FireTypes/E_FireCycleType,/Script/Engine.UserDefinedEnum,Hard,1458,None
 450,/FireTypes/E_WeaponFireCategory,/Script/Engine.UserDefinedEnum,Hard,1645,None
 450,/FireTypes/PAL_FireTypes,/Script/Engine.PrimaryAssetLabel,Hard,749,None
