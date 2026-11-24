@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.2",
+	"FriendlyName": "FireTypes",
+	"Description": "Change Fire Mode",
+	"Category": "Modding",
+	"CreatedBy": "Mage",
+	"CreatedByURL": "https://modworkshop.net/user/_mage_",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "PDML",
+			"Enabled": true,
+			"SemVersion": "EA_0.1.0"
+		}
+	],
+	"EnabledByDefault": true,
+	"SemVersion": "1.1.2",
+	"ModPageURL": "https://modworkshop.net/mod/59756",
+	"ModEnvironment": "Client",
+	"ModLoaderVersion": "0.4.0",
+	"ModAuthors": [
+		"Mage"
+	],
+	"RequiredOnRemote": false
+}
